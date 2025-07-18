@@ -13,7 +13,7 @@ export default function AiSkillsWorkshopPage() {
           <div className="container px-4 md:px-6">
             <div className="max-w-3xl mx-auto space-y-6">
               <h1 className="text-4xl md:text-6xl font-extrabold tracking-tight bg-clip-text text-transparent bg-gradient-to-r from-purple-600 to-blue-600">
-                🚀 مهارات الذكاء الاصطناعي وأدوات المستقبل
+                🚀 مهارات الذكاء الاصطناعي وأدوات المستقبل!
               </h1>
               <p className="text-lg md:text-xl text-gray-600">
                 حوّل فضولك نحو الذكاء الاصطناعي إلى مهارات عملية تطبقها بنفسك خلال يومين فقط. برنامج تدريبي مباشر أونلاين
